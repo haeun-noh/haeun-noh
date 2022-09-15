@@ -1,3 +1,9 @@
+![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&reversal=true&color=gradient&text=Hello%20Haeun!)
+
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirimSunwoo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirimSunwoo&langs_count=8&layout=compact&theme=white)
+ -->
+
 <div align="left">
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />-->
 
