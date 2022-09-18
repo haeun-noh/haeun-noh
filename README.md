@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align ="left"><b>👥 Visitor 👥</b></h3>
+<h3 align ="left"><b>Visitor</b></h3>
     </br>
       <p align = "left">
        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhaeunNoh06&count_bg=%23EFDFB3&title_bg=%230815A6&icon=devrant.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
