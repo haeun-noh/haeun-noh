@@ -1,5 +1,5 @@
 ![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&reversal=true&color=gradient&text=Hello%20Haeun!)
-
+<div align="center">
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirimSunwoo)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirimSunwoo&langs_count=8&layout=compact&theme=white)
  -->
