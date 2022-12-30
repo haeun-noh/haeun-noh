@@ -16,9 +16,10 @@
 <a href="https://blog.naver.com/okhagrace06"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://github.com/haeunNoh06"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firis-haeunNoh06&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeunNoh06&hide=contribs,prs&show_icons=true&theme=graywhite)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+ </p>
+ 
 <tr>
 <h3 align="center"> Skills
       
