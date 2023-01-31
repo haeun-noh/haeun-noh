@@ -30,7 +30,9 @@
 <br><br><br><br>
   
 <h3 align="center">🪄 Github Stats 🪄</h3>
-  
-| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="haeunNoh06's github stats" /></a> | <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&theme=vue&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true" /></a> | <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&theme=vue&hide_border=true" /></a> |
+|-------------|---------------|
+
+
 </div>
