@@ -8,9 +8,7 @@
   <a href="https://solved.ac/okhagrace06"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=okhagrace06"/></a>
  
   <a href="https://www.instagram.com/haeunnohh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 <a href="https://velog.io/@1109_haeun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://blog.naver.com/okhagrace06"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   
 </div>
 
