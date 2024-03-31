@@ -1,14 +1,24 @@
+## Hi, welcome! I'm Haeun Noh🖐️
 
-  
-  ### 🐣Haeun🐣 
-  ---
-
-  
  <a href="https://github.com/haeunNoh06"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firis-haeunNoh06&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=true"/></a>
-  <a href="https://solved.ac/okhagrace06"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=okhagrace06"/></a>
+  <a href="s2209@e-mirim.hs.kr"><img src="https://img.shields.io/badge/Gmail-FF6C37?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@1109_haeun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+> **기록의 힘을 믿는 개발자,** 노하은입니다! <br>
+> **기술블로그** 작성을 통해 제 경험과 지식을 남기고 공유하고 있습니다. <br>
+> 문제점을 인식하고 해결하기 위해 서비스를 개발하는 것에 흥미를 느껴합니다.
+
+
+
+| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true&count_private=true" /></a> | <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&theme=vue&hide_border=true" /></a> |
+|-------------|---------------|
+  
+
+ <!--
+<a href="https://solved.ac/okhagrace06"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=okhagrace06"/></a>
  
   <a href="https://www.instagram.com/haeunnohh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://velog.io/@1109_haeun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@1109_haeun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
 
 <!--
 <tr>
@@ -36,7 +46,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
-
+<!--
 <h3>💻 IDEs/Editors</h3>
 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=flat-square&logo=android%20studio&logoColor=white)
@@ -46,7 +56,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-
+-->
 <h3>📋 Languages</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -61,6 +71,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
+<!--
 <h3>🎋 ORM</h3>
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
@@ -81,14 +92,15 @@
 <h3>💬 Social</h3>
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-
+-->
 
 
 
  <!-- <h3 align="center">🪄 Github Stats 🪄</h3>-->
 
+<!--
 | <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true&count_private=true" /></a> | <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&theme=vue&hide_border=true" /></a> |
-|-------------|---------------|
+|-------------|---------------| -->
 
 </div>
 </div>
