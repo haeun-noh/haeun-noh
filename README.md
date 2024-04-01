@@ -6,7 +6,7 @@
 > **기술블로그** 작성을 통해 제 경험과 지식을 남기고 공유하고 있습니다. <br>
 > 문제점을 인식하고 해결하기 위해 서비스를 개발하는 것에 흥미를 느껴합니다.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1109_haeun)](https://github.com/1109_haeun/posts)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1109_haeun)](https://velog.io/@1109_haeun/posts)
 
  <!--
 <a href="https://solved.ac/okhagrace06"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=okhagrace06"/></a>
