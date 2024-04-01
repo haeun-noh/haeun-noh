@@ -1,6 +1,6 @@
 ## Hi, welcome! I'm Haeun Noh🖐️
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Haeun's%20Velog)](https://velog.io/@1109_haeun/posts) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Haeun's%20Velog)](https://velog.io/post-stats-update) 
 
 > **기록의 힘을 믿는 개발자,** 노하은입니다! <br>
 > **기술블로그** 작성을 통해 제 경험과 지식을 남기고 공유하고 있습니다. <br>
