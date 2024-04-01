@@ -98,7 +98,7 @@
 |-------------|---------------| -->
 
 
-| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true&count_private=true" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&langs_count=81&hide_border=true) |
+| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true&count_private=true" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&langs_count=90&hide_border=true&theme=vue&show_icons=true) |
 |-------------|---------------|
 
 <a href="https://github.com/haeunNoh06"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firis-haeunNoh06&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=true"/></a>
