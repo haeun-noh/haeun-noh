@@ -2,6 +2,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Haeun's%20Velog)](https://velog.io/1109_haeun/posts) 
 
+<!-- <img src ="https://github-readme-streak-stats.herokuapp.com/?user=haeunNoh06&theme=merko&hide_border=true&background=FFFFFF00"> --> 
+
 > **기록의 힘을 믿는 개발자,** 노하은입니다! <br>
 > **기술블로그** 작성을 통해 제 경험과 지식을 남기고 공유하고 있습니다. <br>
 > 문제점을 인식하고 해결하기 위해 서비스를 개발하는 것에 흥미를 느껴합니다.
@@ -22,7 +24,30 @@
 
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />-->
 
+#### 💻 My Stack
+<!--
+<code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=go&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=django&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=mongodb&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=react&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=postman&theme=light"></code> --> 
 
+![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java)
+![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot)
+![nodejs](https://www.codenary.co.kr/widget/github-techstack/api?name=nodejs)
+![expressjs](https://www.codenary.co.kr/widget/github-techstack/api?name=expressjs)
+![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql)
+![mariadb](https://www.codenary.co.kr/widget/github-techstack/api?name=awsmariadb)
+![mongodb](https://www.codenary.co.kr/widget/github-techstack/api?name=mongodb)
+![django](https://www.codenary.co.kr/widget/github-techstack/api?name=django)
+![go](https://www.codenary.co.kr/widget/github-techstack/api?name=go) 
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=okhagrace06)](https://www.codenary.co.kr/user-profile/detail/okhagrace06?github_ride=true&utm_source=github)
+
+<!--
 #### 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -90,16 +115,18 @@
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 -->
-
- <!-- <h3 align="center">🪄 Github Stats 🪄</h3>-->
-
 <!--
-| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true&count_private=true" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinipsae&layout=compact&langs_count=81) |
+| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true&count_private=true" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&langs_count=90&hide_border=true&theme=vue&show_icons=true) |
 |-------------|---------------| -->
 
+<!--
+<a href="https://github.com/haeunNoh06/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06" />
+</a>
+<a href="https://github.com/haeunNoh06/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haeunNoh06&layout=compact&langs_count=8&card_width=320" />
+</a> --> 
 
-| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true&count_private=true" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&langs_count=90&hide_border=true&theme=vue&show_icons=true) |
-|-------------|---------------|
 
 <a href="https://github.com/haeunNoh06"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firis-haeunNoh06&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=true"/></a>
   <a href="s2209@e-mirim.hs.kr"><img src="https://img.shields.io/badge/Gmail-FF6C37?style=flat-square&logo=Gmail&logoColor=white"/></a>
