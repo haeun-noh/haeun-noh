@@ -33,17 +33,17 @@
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mongodb&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=react&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=postman&theme=light"></code> --> 
+<code><img height="35" src="https://skills.thijs.gg/icons?i=postman&theme=light"></code> -->  
 
-![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java)
 ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot)
 ![nodejs](https://www.codenary.co.kr/widget/github-techstack/api?name=nodejs)
 ![expressjs](https://www.codenary.co.kr/widget/github-techstack/api?name=expressjs)
 ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql)
-![mariadb](https://www.codenary.co.kr/widget/github-techstack/api?name=awsmariadb)
+![awsmariadb](https://www.codenary.co.kr/widget/github-techstack/api?name=awsmariadb)
 ![mongodb](https://www.codenary.co.kr/widget/github-techstack/api?name=mongodb)
 ![django](https://www.codenary.co.kr/widget/github-techstack/api?name=django)
-![go](https://www.codenary.co.kr/widget/github-techstack/api?name=go) 
+![go](https://www.codenary.co.kr/widget/github-techstack/api?name=go)
+![docker](https://www.codenary.co.kr/widget/github-techstack/api?name=docker) 
 
 [![Github](https://www.codenary.co.kr/widget/github/api?username=okhagrace06)](https://www.codenary.co.kr/user-profile/detail/okhagrace06?github_ride=true&utm_source=github)
 
