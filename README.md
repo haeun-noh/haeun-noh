@@ -10,9 +10,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=1109_haeun)](https://velog.io/@1109_haeun)
 
- <!--
-<a href="https://solved.ac/okhagrace06"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=okhagrace06"/></a>
- 
+ <!-- 
   <a href="https://www.instagram.com/haeunnohh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@1109_haeun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
 
