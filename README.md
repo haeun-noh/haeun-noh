@@ -113,9 +113,6 @@
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 -->
-<!--
-| <a href="https://github.com/haeunNoh06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06&show_icons=true&theme=vue&hide_border=true&count_private=true" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeunNoh06&layout=compact&langs_count=90&hide_border=true&theme=vue&show_icons=true) |
-|-------------|---------------| -->
 
 <!--
 <a href="https://github.com/haeunNoh06/github-readme-stats">
