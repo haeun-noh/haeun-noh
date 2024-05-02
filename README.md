@@ -43,7 +43,7 @@
 ![go](https://www.codenary.co.kr/widget/github-techstack/api?name=go)
 ![docker](https://www.codenary.co.kr/widget/github-techstack/api?name=docker) 
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=okhagrace06)](https://www.codenary.co.kr/user-profile/detail/okhagrace06?github_ride=true&utm_source=github)
+<!-- [![Github](https://www.codenary.co.kr/widget/github/api?username=okhagrace06)](https://www.codenary.co.kr/user-profile/detail/okhagrace06?github_ride=true&utm_source=github) --> 
 
 <!--
 #### 💾 Databases
@@ -114,13 +114,13 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 -->
 
-<!--
+
 <a href="https://github.com/haeunNoh06/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haeunNoh06" />
 </a>
 <a href="https://github.com/haeunNoh06/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haeunNoh06&layout=compact&langs_count=8&card_width=320" />
-</a> --> 
+</a> 
 
 
 <a href="https://github.com/haeunNoh06"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firis-haeunNoh06&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=true"/></a>
