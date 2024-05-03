@@ -122,6 +122,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haeunNoh06&layout=compact&langs_count=8&card_width=320" />
 </a> 
 
+<br>
 
 <a href="https://github.com/haeunNoh06"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firis-haeunNoh06&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=true"/></a>
   <a href="s2209@e-mirim.hs.kr"><img src="https://img.shields.io/badge/Gmail-FF6C37?style=flat-square&logo=Gmail&logoColor=white"/></a>
