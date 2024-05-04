@@ -33,8 +33,8 @@
 <code><img height="35" src="https://skills.thijs.gg/icons?i=react&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=postman&theme=light"></code> -->  
 
-![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot)
 ![nodejs](https://www.codenary.co.kr/widget/github-techstack/api?name=nodejs)
+![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot)
 ![expressjs](https://www.codenary.co.kr/widget/github-techstack/api?name=expressjs)
 ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql)
 ![awsmariadb](https://www.codenary.co.kr/widget/github-techstack/api?name=awsmariadb)
