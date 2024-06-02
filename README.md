@@ -23,6 +23,8 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />-->
 
 #### 💻 My Stack
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,go,nodejs,sequelize,spring,mysql,mongodb,git&theme=light)](https://skillicons.dev)
+
 <!--
 <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
@@ -31,7 +33,7 @@
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mongodb&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=react&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=postman&theme=light"></code> -->  
+<code><img height="35" src="https://skills.thijs.gg/icons?i=postman&theme=light"></code> 
 
 ![nodejs](https://www.codenary.co.kr/widget/github-techstack/api?name=nodejs)
 ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot)
@@ -41,7 +43,7 @@
 ![mongodb](https://www.codenary.co.kr/widget/github-techstack/api?name=mongodb)
 ![django](https://www.codenary.co.kr/widget/github-techstack/api?name=django)
 ![go](https://www.codenary.co.kr/widget/github-techstack/api?name=go)
-![docker](https://www.codenary.co.kr/widget/github-techstack/api?name=docker) 
+![docker](https://www.codenary.co.kr/widget/github-techstack/api?name=docker) -->
 
 <!-- [![Github](https://www.codenary.co.kr/widget/github/api?username=okhagrace06)](https://www.codenary.co.kr/user-profile/detail/okhagrace06?github_ride=true&utm_source=github) --> 
 
