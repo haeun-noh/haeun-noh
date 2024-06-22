@@ -2,8 +2,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Haeun's%20Velog)](https://velog.io/1109_haeun/posts) 
 
-<!-- <img src ="https://github-readme-streak-stats.herokuapp.com/?user=haeunNoh06&theme=merko&hide_border=true&background=FFFFFF00"> --> 
-
 > **기록의 힘을 믿는 개발자,** 노하은입니다! <br>
 > **기술블로그** 작성을 통해 제 경험과 지식을 남기고 공유하고 있습니다. <br>
 > 문제점을 인식하고 해결하기 위해 서비스를 개발하는 것에 흥미를 느껴합니다.
